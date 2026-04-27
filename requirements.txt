@@ -1,0 +1,22 @@
+# STA 611 Final Project - Demand Persistence Analysis
+# Python 3.9+
+# Install: pip install -r requirements.txt
+
+# Core data manipulation
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Statistical analysis
+scipy>=1.9.0
+statsmodels>=0.13.0
+
+# Visualization
+matplotlib>=3.6.0
+
+# Kaggle API (for downloading M5 data)
+kaggle>=1.5.12
+
+# Jupyter environment
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.0.0
